@@ -9,6 +9,10 @@ mac 下安装 mongo
 mongoose-auto-increment
 
 
+运行前：
+
+npm install
+
 参考 ：
 
 https://www.npmjs.com/package/mongoose-auto-increment
